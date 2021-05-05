@@ -15,5 +15,5 @@ cd into DotCom folder and open a terminal from there.
 ### Step 4:
 Type following commands into terminal:
 <br />
-javac SuperDotCom.java  <em>-compiles the program</em> <br />
-java SuperDotCom <em>-run the program</em> 
+javac SuperDotCom.java <br />
+java SuperDotCom
